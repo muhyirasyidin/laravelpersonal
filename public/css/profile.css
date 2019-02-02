@@ -1,0 +1,20 @@
+/* Move down content because we have a fixed navbar that is 3.5rem tall */
+body {
+  padding-top: 3.5rem;
+}
+.jumbotron{
+  background-color: #2C3E50;
+  color: white;
+}
+.gambar{
+  height: 350px;
+}
+.responsive {
+  width: 100%;
+  max-width: 400px;
+  height: auto;
+}
+.footer{
+  background-color: #2C3E50;
+  color: white;
+}
